@@ -1,0 +1,42 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.3">
+  <diagram name="Página-1" id="oh0Ci-yldeJuqW9jqT2j">
+    <mxGraphModel dx="1418" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IHZA9jqLh9YRXk_rwiKL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IHZA9jqLh9YRXk_rwiKL-1" target="IHZA9jqLh9YRXk_rwiKL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IHZA9jqLh9YRXk_rwiKL-1" value="Início" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="340" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IHZA9jqLh9YRXk_rwiKL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="IHZA9jqLh9YRXk_rwiKL-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="222" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="400" y="222" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IHZA9jqLh9YRXk_rwiKL-2" value="Ler P1, P2, P3, P4" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IHZA9jqLh9YRXk_rwiKL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IHZA9jqLh9YRXk_rwiKL-4" target="IHZA9jqLh9YRXk_rwiKL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IHZA9jqLh9YRXk_rwiKL-4" value="Média = (P1+P2+P3+P4)/4" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="305" y="300" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IHZA9jqLh9YRXk_rwiKL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IHZA9jqLh9YRXk_rwiKL-6" target="IHZA9jqLh9YRXk_rwiKL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IHZA9jqLh9YRXk_rwiKL-6" value="Escrever Média" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="315" y="480" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IHZA9jqLh9YRXk_rwiKL-8" value="Fim" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
