@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.5">
+  <diagram name="Página-1" id="NsvOcMbgNCAqdCPnq3sT">
+    <mxGraphModel dx="1418" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8Gm1ZcirGFJTw-mWqJaS-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8Gm1ZcirGFJTw-mWqJaS-1" target="8Gm1ZcirGFJTw-mWqJaS-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Gm1ZcirGFJTw-mWqJaS-1" value="Início" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="354" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8Gm1ZcirGFJTw-mWqJaS-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8Gm1ZcirGFJTw-mWqJaS-2" target="8Gm1ZcirGFJTw-mWqJaS-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Gm1ZcirGFJTw-mWqJaS-2" value="Contador = 0&lt;div&gt;Soma = 0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Gm1ZcirGFJTw-mWqJaS-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8Gm1ZcirGFJTw-mWqJaS-3" target="8Gm1ZcirGFJTw-mWqJaS-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Gm1ZcirGFJTw-mWqJaS-3" value="Ler Numero" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="354" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Gm1ZcirGFJTw-mWqJaS-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8Gm1ZcirGFJTw-mWqJaS-4" target="8Gm1ZcirGFJTw-mWqJaS-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Gm1ZcirGFJTw-mWqJaS-4" value="Contador = Contador + 1&lt;div&gt;Soma = Soma + Num&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="331" y="380" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Gm1ZcirGFJTw-mWqJaS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Gm1ZcirGFJTw-mWqJaS-5" target="8Gm1ZcirGFJTw-mWqJaS-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="540" />
+              <mxPoint x="560" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Gm1ZcirGFJTw-mWqJaS-8" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="8Gm1ZcirGFJTw-mWqJaS-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.8259" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Gm1ZcirGFJTw-mWqJaS-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8Gm1ZcirGFJTw-mWqJaS-5" target="8Gm1ZcirGFJTw-mWqJaS-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Gm1ZcirGFJTw-mWqJaS-17" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="8Gm1ZcirGFJTw-mWqJaS-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.2252" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Gm1ZcirGFJTw-mWqJaS-5" value="Soma &amp;gt; 1000" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="346" y="494.5" width="136" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8Gm1ZcirGFJTw-mWqJaS-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8Gm1ZcirGFJTw-mWqJaS-9" target="8Gm1ZcirGFJTw-mWqJaS-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Gm1ZcirGFJTw-mWqJaS-9" value="Escrever &quot;A soma dos teus&lt;div&gt;números é &quot;, Soma, &quot;e a média&lt;/div&gt;&lt;div&gt;da soma é &quot;, Soma / Contador&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="316" y="640" width="196" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8Gm1ZcirGFJTw-mWqJaS-10" value="Fim" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="354" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
